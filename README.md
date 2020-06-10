@@ -1,3 +1,5 @@
+![alt text](https://datawider.com/wp-content/uploads/2019/11/How-to-Learn-Python.jpg "Programming")
+
 # MasterLaw-Session1-2
 The second part of the master, as a google colab lesson
 
